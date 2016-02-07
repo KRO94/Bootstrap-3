@@ -1,4 +1,6 @@
-/*.row div{
-  height: 300px;
-  background: #333;
-}*/
+a.spoiler:after{
+  content: "[-]";
+}
+a.spoiler.collapsed:after{
+  content: "[+]";
+}
