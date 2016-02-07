@@ -4,3 +4,6 @@ a.spoiler:after{
 a.spoiler.collapsed:after{
   content: "[+]";
 }
+.nav-tabs{
+  margin-bottom: 15px;
+}
